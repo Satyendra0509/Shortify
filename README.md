@@ -1,4 +1,4 @@
-# URL Shortener
+# Shortify
 
 A simple URL shortening service built in Go.
 
